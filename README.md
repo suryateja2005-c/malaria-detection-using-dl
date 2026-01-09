@@ -31,7 +31,8 @@ Image Processing	Pillow, NumPy
 Visualization	Matplotlib, Seaborn
 Dataset	NIH Malaria Dataset (Kaggle)
 📂 Project Structure
-![Uploading image.png…]()
+<img width="746" height="930" alt="image" src="https://github.com/user-attachments/assets/116e55b4-6258-489a-9d59-f0abd37cfc84" />
+
 
 
 ⚙️ Setup Instructions
